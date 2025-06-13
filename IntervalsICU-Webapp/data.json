@@ -1,1 +1,9 @@
-{"rode_today": false, "distance_km": 0.0}
+{
+  "rode_today": false,
+  "distance_km": 0.0,
+  "last_updated": "2025-06-13T14:37:26.045318",
+  "last_check": {
+    "date": "2023-08-31T15:56:23",
+    "status": null
+  }
+}
